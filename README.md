@@ -1,7 +1,7 @@
 # market_generation_GPT-2
 基于GPT-2的营销文本生成
 
-## 参考
+### 参考
 数据来源：https://github.com/Wasim37/marketing_text_generation
 GPT-2模型参考：
 https://github.com/Morizeyao/GPT2-Chinese 
